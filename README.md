@@ -1,6 +1,6 @@
 # Diffusion Content Replication study
 
-> <font color="red"> Note: </font> This repo is WIP and some code is yet to be added/tested. Will be fully ready by CVPR conference (June 18, 2023).
+> <font color="red"> Note: </font> This repo is WIP and some code is yet to be added/tested. Will release soon.
 
 This repo contains code for two papers.
 
