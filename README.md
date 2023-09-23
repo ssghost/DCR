@@ -5,7 +5,7 @@
 This repo contains code for two papers.
 
 1. Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models **(<font color="green">CVPR'23</font>)** - [paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)
-2. Understanding and Mitigating Copying in Diffusion Models - [paper link](https://arxiv.org/abs/2305.20086)
+2. Understanding and Mitigating Copying in Diffusion Models **(<font color="green">NeurIPS'23</font>)** - [paper link](https://arxiv.org/abs/2305.20086)
 
 
 ![alt text](wide_teaser.jpg "Generations from Stable Diffusion v1.4 and corresponding matches from LAION-A 6+")
@@ -87,5 +87,10 @@ Citation for **Diffusion Art or Digital Forgery? Investigating Data Replication 
 
 Citation for **Understanding and Mitigating Copying in Diffusion Models**
 ```
-Coming soon
+@article{somepalli2023understanding,
+  title={Understanding and Mitigating Copying in Diffusion Models},
+  author={Somepalli, Gowthami and Singla, Vasu and Goldblum, Micah and Geiping, Jonas and Goldstein, Tom},
+  journal={arXiv preprint arXiv:2305.20086},
+  year={2023}
+}
 ```
