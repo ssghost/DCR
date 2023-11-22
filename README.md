@@ -67,6 +67,10 @@ python sd_mitigation.py --rand_augs rand_word_add --seed 2
 python sd_mitigation.py --rand_augs rand_numb_add --seed 2
 ```
 
+## Data
+
+Download the LAION-10k split [here](https://drive.google.com/drive/folders/1TT1x1yT2B-mZNXuQPg7gqAhxN_fWCD__?usp=sharing).
+
 ## License
 This repository is released under the Apache 2.0 license as found in the [LICENSE](LICENSE) file.
 
